@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tucil3_10023519 - Word Ladder Solver
 
 ## Table of Contents
@@ -55,3 +56,6 @@ java App
 | --- | --- |
 | 10023519 | Muhammad Fiqri |
 
+=======
+"# decentralized-app" 
+>>>>>>> 58a4938 (first commit)
