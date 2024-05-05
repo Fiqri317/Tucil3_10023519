@@ -54,6 +54,4 @@ java App
 | NIM | Nama |
 | --- | --- |
 | 10023519 | Muhammad Fiqri |
-| 13521154 | Naufal Baldemar Ardanni |
-| 13522102 | Hayya Zuhailii Kinasih |
 
