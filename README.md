@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tucil3_10023519 - Word Ladder Solver
 
 ## Table of Contents
