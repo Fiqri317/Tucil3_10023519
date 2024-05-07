@@ -24,7 +24,9 @@ Tucil3 adalah aplikasi yang dirancang untuk memecahkan permainan Word Ladder men
 - Algoritma UCS, Greedy BFS, dan A*
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Uji Coba 6 - UCS](./test/Uji Coba 6 - UCS.png)
+![Uji Coba 6 - Greedy BFS](./test/Uji Coba 6 - Greedy BFS.png)
+![Uji Coba 6 - A (Star)](./test/Uji Coba 6 - A (Star).png)
 
 ## Setup
 Clone repository
@@ -54,7 +56,3 @@ java App
 | NIM | Nama |
 | --- | --- |
 | 10023519 | Muhammad Fiqri |
-
-=======
-"# decentralized-app" 
->>>>>>> 58a4938 (first commit)
