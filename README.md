@@ -4,7 +4,6 @@
 * [Project Description](#project-description)
 * [Features](#features)
 * [Requirements](#requirements)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Authors](#authors)
@@ -22,12 +21,6 @@ Tucil3 adalah aplikasi yang dirancang untuk memecahkan permainan Word Ladder men
 - Java
 - Java Swing (untuk GUI, jika diimplementasikan)
 - Algoritma UCS, Greedy BFS, dan A*
-
-## Screenshots
-![BruteForce_1](./test/BruteForce_1.png)
-![Uji Coba 6 - UCS](./tests/Uji_Coba_6_-_UCS.png)
-![Uji Coba 6 - Greedy BFS](./test/Uji_Coba_6_-_Greedy_BFS.png)
-![Uji Coba 6 - A (Star)](./test/Uji Coba 6 - A (Star).png)
 
 ## Setup
 Clone repository
