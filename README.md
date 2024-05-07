@@ -24,8 +24,9 @@ Tucil3 adalah aplikasi yang dirancang untuk memecahkan permainan Word Ladder men
 - Algoritma UCS, Greedy BFS, dan A*
 
 ## Screenshots
-![Uji Coba 6 - UCS](./test/Uji Coba 6 - UCS.png)
-![Uji Coba 6 - Greedy BFS](./test/Uji Coba 6 - Greedy BFS.png)
+![BruteForce_1](./test/BruteForce_1.png)
+![Uji Coba 6 - UCS](./tests/Uji_Coba_6_-_UCS.png)
+![Uji Coba 6 - Greedy BFS](./test/Uji_Coba_6_-_Greedy_BFS.png)
 ![Uji Coba 6 - A (Star)](./test/Uji Coba 6 - A (Star).png)
 
 ## Setup
